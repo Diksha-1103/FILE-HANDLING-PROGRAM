@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-**DESCRIPTION OF THE TASK 1**
+**DESCRIPTION OF THE TASK**
 
 In C, file handling allows us to create, open, read, write, and append data to files using functions from the standard I/O library (stdio.h). Below is a description of writing, reading, and appending in file handling:
 
