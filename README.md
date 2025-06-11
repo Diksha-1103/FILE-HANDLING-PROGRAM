@@ -39,3 +39,10 @@ In C, file handling allows us to create, open, read, write, and append data to f
       
 (D) Appending to a File:
       The "a" or "a+" mode is used to open a file for appending. New data is added at the end of the existing content.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8c4e6f93-e140-4c2f-8ff4-2412696a9d35)
+
+
+      
